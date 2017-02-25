@@ -1,0 +1,14 @@
+body {background-color:#FFE4B5; font-family:"Arial, Verdana, sans-serif"}
+ 
+ .title{text-align: center; 
+overflow-wrap:normal;}
+
+.center img{max-width:70%;
+  height:auto;
+margin-left:16%;}
+
+table {
+    width: 80%; /* Ширина таблицы */
+    border: 1px solid green; /* Рамка вокруг таблицы */
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+   }
